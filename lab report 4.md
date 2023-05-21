@@ -9,7 +9,7 @@
 ## Theory:
 
 <p style="text-align: justify">
-In signal processing, group delay and phase delay are delay times experienced by a signal's various frequency components when the signal passes through a linear time-invariant system (LTI), such as a microphone, coaxial cable, amplifier, loudspeaker, telecommunications system or ethernet cable. [1]
+In signal processing, group delay and phase delay are delay times experienced by a signal's various frequency components when the signal passes through a linear time-invariant system (LTI), such as a microphone, coaxial cable, amplifier, loudspeaker, telecommunications system or ethernet cable.
 <p style="text-align: justify">
 Time-shifting is an important operation that is used in many signal-processing applications. For example, a time-delayed version of the signal is used when performing autocorrelation. The time-shifted signal is also used in cross-correlation.
 </p>
@@ -54,7 +54,8 @@ ind = F-length(t)
 ## Output:
 
 ![Output](Picture1.png)
-
+<p style = "text-align: center">
+  Fig 4.1: Output of correleted signal of a normal and delayed signal
 ```
 ind=1000
 ```
