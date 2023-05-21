@@ -57,6 +57,7 @@ ind = F-length(t)
 <p style = "text-align: center">
   Fig 4.1: Output of correleted signal of a normal and delayed signal
 </p>
+
 ```
 ind=1000
 ```
