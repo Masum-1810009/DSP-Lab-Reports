@@ -7,16 +7,17 @@
 ---
 
 ## Theory:
+![Theory](lab 5 (1).png)
+<strong>Fig 5.1:</strong> Causal signal
 <p style="text-align: justify">
   <strong>Causal Signal:</strong> A continous time signal x(t) which is said to be causal if x(t) = 0 for t<0.
-  ![Theory](lab 5 (1).png)
-  <p>
-  <strong>Fig 5.1:</strong> Causal signal
-  </p>
 </p>
+  
+![Theory](lab 5 (2).png)  
+
 <p style="text-align: justify">
   <strong>Anti-Causal Signal:</strong> A continous time signal x(t) which is said to be anti-causal if x(t) = 0 for t>0.
-  ![Theory](lab 5 (2).png)
+  
   <p>
   <strong>Fig 5.2:</strong> Anti-causal signal
   </p>
@@ -66,15 +67,13 @@ display(N_Cs);
   <strong>Fig 5.4:</strong> Output of the causal, anti-causal & non-causal signal
 </p>
 
-```
-ind=1000
-```
+
 
 ## Discussion and Conclusion:
 
 <p style="text-align: justify">
 
-The code was executed and the output was verified. The output was plotted and the graph was observed according to the theory.
+The code was executed and the output was verified. The output was correct comapared with the theories. But the task where we need to plot them in figures, i was unsuccessful and i couldn't find a better solution which was meaningful to me.
 
 </p>
 
