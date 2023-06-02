@@ -9,19 +9,21 @@
 ## Theory:
 <p style="text-align: justify">
   <strong>Causal Signal:</strong> A continous time signal x(t) which is said to be causal if x(t) = 0 for t<0.
+                                                                                                               
+  ![lab 5 (1)](https://github.com/Masum-1810009/DSP-Lab-Reports/assets/90197507/d3a0f7b0-b308-42c9-a172-685a6f03567b)                                       
 </p>
-![Causal Signal](https://github.com/Masum-1810009/DSP-Lab-Reports/blob/Masum-1810009-patch-1/lab%205%20(1).png)
-<strong>Fig 5.1:</strong> Causal signal  
-  
-![Theory](lab 5 (2).png)  
+<strong>Fig 5.1:</strong> Causal signal
+
 
 <p style="text-align: justify">
   <strong>Anti-Causal Signal:</strong> A continous time signal x(t) which is said to be anti-causal if x(t) = 0 for t>0.
   
-  <p>
+</p>
+
+
+<p>
   <strong>Fig 5.2:</strong> Anti-causal signal
   </p>
-</p>
 <p style="text-align: justify">
   <strong>Non-Causal Signal:</strong> A continous time signal x(t) which is said to be non-causal if x(t) is non zero for t>0.
   ![Theory](lab 5 (3).png)
