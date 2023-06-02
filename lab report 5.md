@@ -7,11 +7,11 @@
 ---
 
 ## Theory:
-![Theory](lab 5 (1).png)
-<strong>Fig 5.1:</strong> Causal signal
 <p style="text-align: justify">
   <strong>Causal Signal:</strong> A continous time signal x(t) which is said to be causal if x(t) = 0 for t<0.
 </p>
+![Causal Signal](https://github.com/Masum-1810009/DSP-Lab-Reports/blob/Masum-1810009-patch-1/lab%205%20(1).png)
+<strong>Fig 5.1:</strong> Causal signal  
   
 ![Theory](lab 5 (2).png)  
 
