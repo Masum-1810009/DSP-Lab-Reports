@@ -9,8 +9,12 @@
 ## Theory:
 <p style="text-align: justify">
   <strong>Causal Signal:</strong> A continous time signal x(t) which is said to be causal if x(t) = 0 for t<0.
+                                                                                                               </p>
+  <p style="text-align: justify">
   <strong>Anti-Causal Signal:</strong> A continous time signal x(t) which is said to be anti-causal if x(t) = 0 for t>0.
-  <strong>Non-Causal Signal:</strong> A continous time signal x(t) which is said to be non-causal if x(t) is non zero for t>0.
+    </p>
+  <p style="text-align: justify">
+    <strong>Non-Causal Signal:</strong> A continous time signal x(t) which is said to be non-causal if x(t) is non zero for t>0.
 </p>
 
 
