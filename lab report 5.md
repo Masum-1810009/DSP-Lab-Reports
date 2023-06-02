@@ -9,14 +9,25 @@
 ## Theory:
 <p style="text-align: justify">
   <strong>Causal Signal:</strong> A continous time signal x(t) which is said to be causal if x(t) = 0 for t<0.
-                                                                                                               </p>
-  <p style="text-align: justify">
-  <strong>Anti-Causal Signal:</strong> A continous time signal x(t) which is said to be anti-causal if x(t) = 0 for t>0.
-    </p>
-  <p style="text-align: justify">
-    <strong>Non-Causal Signal:</strong> A continous time signal x(t) which is said to be non-causal if x(t) is non zero for t>0.
+  ![Theory](lab 5 (1).png)
+  <p>
+  <strong>Fig 5.1:</strong> Causal signal
+  </p>
 </p>
-
+<p style="text-align: justify">
+  <strong>Anti-Causal Signal:</strong> A continous time signal x(t) which is said to be anti-causal if x(t) = 0 for t>0.
+  ![Theory](lab 5 (2).png)
+  <p>
+  <strong>Fig 5.2:</strong> Anti-causal signal
+  </p>
+</p>
+<p style="text-align: justify">
+  <strong>Non-Causal Signal:</strong> A continous time signal x(t) which is said to be non-causal if x(t) is non zero for t>0.
+  ![Theory](lab 5 (3).png)
+  <p>
+  <strong>Fig 5.3:</strong> Non-causal signal
+  </p>
+</p>
 
 ## Code:
 
@@ -50,10 +61,9 @@ display(N_Cs);
 ```
 
 ## Output:
-
-![Output](Picture1.png)
+![Output](lab 5 (4).png)
 <p style = "text-align: center">
-  Fig 4.1: Output of correleted signal of a normal and delayed signal
+  <strong>Fig 5.4:</strong> Output of the causal, anti-causal & non-causal signal
 </p>
 
 ```
