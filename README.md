@@ -1,9 +1,22 @@
+##Lab Report on ECE 4124: Digital Signal Processing Sessional
+
+## Submitted to:
+
+### **Hafsa Binte Kibria**
+### Lecturer,
+### Department of Electrical and Computer Engineering
+### Rajshahi University of Engineering and Technology
+
+
+
+
 ## Submitted by:
 
 ### **Masum Ahmed Mozumder**
 ### Roll: 1810009
 ### Department of Electrical and Computer Engineering
 ### Rajshahi University of Engineering and Technology
+
 
 <br>
 
