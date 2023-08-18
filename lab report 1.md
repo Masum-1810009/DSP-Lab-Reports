@@ -98,7 +98,7 @@ Intuitively, the convolution of f and g describes how the shape of one function 
 
 ## Output:
 
-
+![l1](https://github.com/Masum-1810009/DSP-Lab-Reports/assets/90197507/b5d75936-d280-4fce-96df-e8a7b1cc82c4)
 
 
 <p style = "text-align: center">
@@ -106,7 +106,7 @@ Intuitively, the convolution of f and g describes how the shape of one function 
 </p>
 
 
-
+![l1](https://github.com/Masum-1810009/DSP-Lab-Reports/assets/90197507/b5d75936-d280-4fce-96df-e8a7b1cc82c4)
 
 <p style = "text-align: center">
   <strong>Fig 1.1:</strong> Output without built in function
