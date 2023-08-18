@@ -1,4 +1,4 @@
-## Experiment No : 01
+## Experiment No : 02
 
 ## Date of Submission : 8/5/2023
 
@@ -92,22 +92,28 @@ where n is an index that ranges from 0 to N-1, and mod is the modulo operator. T
 
 
 <p style = "text-align: center">
-  <strong>Fig 1.1:</strong> Output with built in function
+  <strong>Fig 2.1:</strong> Convolution of two signals using conv function
 </p>
 
 
 ![l1](https://github.com/Masum-1810009/DSP-Lab-Reports/assets/90197507/b5d75936-d280-4fce-96df-e8a7b1cc82c4)
 
 <p style = "text-align: center">
-  <strong>Fig 1.1:</strong> Output without built in function
+  <strong>Fig 2.2:</strong> two signals and showing their summation and subtraction
 </p>
+
+
+![l1](https://github.com/Masum-1810009/DSP-Lab-Reports/assets/90197507/b5d75936-d280-4fce-96df-e8a7b1cc82c4)
+
+<p style = "text-align: center">
+  <strong>Fig 2.3:</strong> Two signal’s shape drawing using array
+</p>
+
 
 
 ## Discussion and Conclusion:
 
 <p style="text-align: justify">
-
-After convolving two signals using the built-in conv function in MATLAB, we compute the convolution of the same signals without using the conv function; both implementations yield the same result, as shown by the above figures.
-
+In this experiment we learnt how to implement circular convolution in MATLAB. It is a matter of fact that, for circular convolution the size of the two signals must be same otherwise the result will not be gained. There is also built in function to implement circular convolution which is by using ifft and fft function. For the summation and subtraction normally the addition and subtraction between the given signal is done and being plotted to the figure. For the given figure shapes, normally two array has been taken and by using random values the shapes was plotted. 
 </p>
 
