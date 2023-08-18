@@ -7,16 +7,20 @@
 ---
 
 ## Theory:
+<p style="text-align: justify">
 In signal processing, convolution is a mathematical operation that combines two functions to produce a third function that expresses how one of the original functions modifies the other. The operation is typically denoted by an asterisk symbol (*).
 
 More specifically, convolution involves taking the integral of the product of two functions as one function is shifted over the other function. The resulting function is a way to describe how the original functions interact with each other.
-The general representation of convolution involves two functions, let's call them f and g, which can be continuous or discrete. The convolution of f and g, denoted as (f * g), is given by:
+The general representation of convolution involves two functions, let's call them f and g, which can be continuous or discrete. The convolution of f and g, denoted as (f * g), is given by: </p>
 
 (f * g)(t) = ∫ f(τ) g(t-τ) dτ (for continuous functions)
 or
 (f * g)[n] = Σ f[k] g[n-k] (for discrete functions)
+
+<p <p style="text-align: justify">
 where t represents a continuous variable, n represents a discrete index, and τ and k are integration and summation variables, respectively.
 Intuitively, the convolution of f and g describes how the shape of one function (g) is modified as it is shifted across the other function (f), weighted by the values of f. This produces a new function that describes the combined effect of both functions.
+</p>
 
 ## Code:
 <strong> With built in function </strong>
@@ -109,7 +113,7 @@ Intuitively, the convolution of f and g describes how the shape of one function 
 ![l1](https://github.com/Masum-1810009/DSP-Lab-Reports/assets/90197507/b5d75936-d280-4fce-96df-e8a7b1cc82c4)
 
 <p style = "text-align: center">
-  <strong>Fig 1.1:</strong> Output without built in function
+  <strong>Fig 1.2:</strong> Output without built in function
 </p>
 
 
