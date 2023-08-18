@@ -52,8 +52,8 @@ ind = F-length(t)
 ```
 
 ## Output:
+![Picture1](https://github.com/Masum-1810009/DSP-Lab-Reports/assets/90197507/516dfb5e-6634-4a07-84f8-78a9c8cae2e0)
 
-![Output](Picture1.png)
 <p style = "text-align: center">
   Fig 4.1: Output of correleted signal of a normal and delayed signal
 </p>
