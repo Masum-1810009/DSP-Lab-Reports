@@ -88,7 +88,7 @@ where n is an index that ranges from 0 to N-1, and mod is the modulo operator. T
 
 ## Output:
 
-![l1](https://github.com/Masum-1810009/DSP-Lab-Reports/assets/90197507/b5d75936-d280-4fce-96df-e8a7b1cc82c4)
+![l2 (1)](https://github.com/Masum-1810009/DSP-Lab-Reports/assets/90197507/8572cedd-e36a-4bcc-83f3-5fdb3ddec113)
 
 
 <p style = "text-align: center">
@@ -96,14 +96,15 @@ where n is an index that ranges from 0 to N-1, and mod is the modulo operator. T
 </p>
 
 
-![l1](https://github.com/Masum-1810009/DSP-Lab-Reports/assets/90197507/b5d75936-d280-4fce-96df-e8a7b1cc82c4)
-
+![l2(2)](https://github.com/Masum-1810009/DSP-Lab-Reports/assets/90197507/50616b18-d236-4499-b50c-afdb5e7e0891)
+![l2(3)](https://github.com/Masum-1810009/DSP-Lab-Reports/assets/90197507/8a26cdaa-3c94-45b1-87d9-0bed591f41f9)
 <p style = "text-align: center">
   <strong>Fig 2.2:</strong> two signals and showing their summation and subtraction
 </p>
 
 
-![l1](https://github.com/Masum-1810009/DSP-Lab-Reports/assets/90197507/b5d75936-d280-4fce-96df-e8a7b1cc82c4)
+![l2(4)](https://github.com/Masum-1810009/DSP-Lab-Reports/assets/90197507/dba9b06d-63c9-4292-bd6b-25c14ff571b1)
+
 
 <p style = "text-align: center">
   <strong>Fig 2.3:</strong> Two signal’s shape drawing using array
